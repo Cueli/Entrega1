@@ -12,6 +12,9 @@ public class Demo1 {
 		System.out.println("Rama de trabajo personal");
 		
 		System.out.println("Commit 1");
+		
+		System.out.println("Commit 2");
+		
 
 	}
 
