@@ -5,8 +5,12 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola mundo");
+<<<<<<< HEAD
 		
 		System.out.println("Modificacion despues del branch");
+=======
+		System.out.println("Rama de trabajo personal");
+>>>>>>> refs/remotes/origin/Pedro
 	}
 
 }
